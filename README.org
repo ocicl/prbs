@@ -1,0 +1,10 @@
+* prbs
+
+Pseudo-random binary sequence generators (LFSR-2 and LFSR-4) in Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jlowder/prbs.git   |
+| commit  | 5aea2d1  |
+| systems | prbs |
+|---------+-------------------------------------------|
+
